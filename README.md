@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/D5616AQFr7JtNV1-ySw/profile-displaybackgroundimage-shrink_350_1400/0/1721746732241?e=1728518400&v=beta&t=fe0DrLSxBnzGwtUjYE6HA4Dml48q7gMnv9Cm6A65bR8" align="right" width="500" height="290"></br>
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
